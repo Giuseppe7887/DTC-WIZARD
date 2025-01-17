@@ -3,7 +3,7 @@
 <br/>
 
 <hr/>
-<a href="https://lignux.net/static/apps/DTC%20WIZARD.exe">CLICK HERE TO DOWNLOAD FOR WINDOWS</a>
+<a href="https://github.com/Giuseppe7887/DTC-WIZARD/releases/download/v1/DTC.WIZARD.exe">CLICK HERE TO DOWNLOAD FOR WINDOWS</a>
 <hr/>
 
 ## What is 🧙
