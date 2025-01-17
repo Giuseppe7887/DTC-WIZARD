@@ -1,9 +1,10 @@
 # DTC WIZARD <img  src="https://raw.githubusercontent.com/Giuseppe7887/DTC-WIZARD/refs/heads/main/assets/icon.ico" width=30 style="transform:translateY(5px)"/>
 
 <br/>
-<br/>
 
-<a href="https://lignux.net/static/apps/DTC%20WIZARD.exe">DOWNLOAD HERE FOR WINDOWS</a>
+<hr/>
+<a href="https://lignux.net/static/apps/DTC%20WIZARD.exe">CLICK HERE TO DOWNLOAD FOR WINDOWS</a>
+<hr/>
 
 ## What is 🧙
 
