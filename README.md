@@ -26,7 +26,7 @@ To use it, insert the OBD connector into the appropriate slot, which is usually 
 <br/>
 
 <center>
-    <a href="http://lignux.net/static/apps/DTC%20WIZARD.exe">
+    <a href="https://lignux.net/static/apps/DTC%20WIZARD.exe">
     <button target="_blank" style="padding:20px;font-weight:900">WINDOWS DOWNLOAD</button>
     </a>
     <button style="padding:20px; font-weight:900">UBUNTU DOWNLOAD</button>
