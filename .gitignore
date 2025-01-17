@@ -1,4 +1,7 @@
 venv
 __pycache__/
 build/
-dist/
+assets/app.png
+assets/demo.gif
+build.sh
+DTC WIZARD.spec

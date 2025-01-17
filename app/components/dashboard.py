@@ -38,6 +38,8 @@ class Dashboard(QWidget):
 
         self.scan_dtc_btn = QPushButton("Start scanning")
         self.clear_dtc_btn = QPushButton("Reset DTC")
+        self.scan_dtc_btn.setStyleSheet("padding: 15 0 15 0")
+        self.clear_dtc_btn.setStyleSheet("padding: 15 0 15 0")
         # self.clear_dtc_btn.setDisabled(True)
 
         self.layout.addWidget(self.scan_dtc_btn)
